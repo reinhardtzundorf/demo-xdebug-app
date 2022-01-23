@@ -1,0 +1,12 @@
+{
+    "name": "reinhardtzundorf/demo-xdebug-app",
+    "description": "PHP sample application using Xdebug to help learn how to configure and setup the debugger in a Docker development environment.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Reinhardt Zundorf",
+            "email": "reinhardt.zundorf@gmail.com"
+        }
+    ],
+    "require": {}
+}
